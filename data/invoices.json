@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "invoices": {
+    "e9098c34-7b3b-43ca-b81b-b089ed9097ee": {
+      "id": "e9098c34-7b3b-43ca-b81b-b089ed9097ee",
+      "createdAt": "2026-10-20T10:27:33.443Z",
+      "updatedAt": "2026-10-20T10:28:03.405Z",
+      "invoice": {
+        "business": {
+          "name": "Atelier Monochrome Studio LLC",
+          "email": "billing@ateliermonochrome.desig",
+          "address": "742 Evergreen Terrace, Suite 300\nPortland, OR 97201",
+          "contact": "+1 (503) 892-4410 • ateliermonochrome.design"
+        },
+        "client": {
+          "name": "Meridian Health & Tech Ventures",
+          "email": "accounts.payable@meridianvc.io",
+          "address": "100 Montgomery St, Fl 18\nSan Francisco, CA 94104",
+          "contact": "Attn: Sarah Jenkins (VP Operations)"
+        },
+        "number": "INV-2026-0084",
+        "issueDate": "2026-10-14",
+        "dueDate": "2026-11-13",
+        "items": [
+          {
+            "id": "item-1",
+            "description": "Brand Identity Design & Visual System",
+            "quantity": "1",
+            "unitPrice": "4500.00"
+          },
+          {
+            "id": "item-2",
+            "description": "Web Application Frontend Implementation (hours)",
+            "quantity": "40",
+            "unitPrice": "140.00"
+          },
+          {
+            "id": "item-3",
+            "description": "Component Library Documentation & Handoff",
+            "quantity": "1",
+            "unitPrice": "1250.00"
+          }
+        ],
+        "discountLabel": "Early Partner Discount",
+        "discount": "500.00",
+        "taxRate": "8.5",
+        "notes": "Payment due within 30 days via ACH wire transfer. Please include the invoice number in your remittance details.\nThank you for your valued partnership.",
+        "customFields": [
+          {
+            "id": "field-po",
+            "label": "Purchase Order",
+            "value": "PO-8921-X",
+            "visible": true
+          },
+          {
+            "id": "field-project",
+            "label": "Project Code",
+            "value": "MER-2026-Q4",
+            "visible": true
+          },
+          {
+            "id": "field-tax-id",
+            "label": "Tax ID / VAT",
+            "value": "US-94-3829102",
+            "visible": false
+          }
+        ]
+      }
+    },
+    "759857c6-02a9-4a68-91a6-1d087a9d31a5": {
+      "id": "759857c6-02a9-4a68-91a6-1d087a9d31a5",
+      "createdAt": "2026-10-20T11:14:27.007Z",
+      "updatedAt": "2026-10-20T11:24:18.459Z",
+      "invoice": {
+        "business": {
+          "name": "zsdfsdf",
+          "email": "sdfsd",
+          "address": "dfgdfgdfg",
+          "contact": "dfgdfgdfgdfg"
+        },
+        "client": {
+          "name": "dfgdfg",
+          "email": "dfgdfgdfg",
+          "address": "dfgdfg",
+          "contact": "dfgdfg"
+        },
+        "number": "101",
+        "issueDate": "2026-10-20",
+        "dueDate": "2026-11-19",
+        "items": [],
+        "discountLabel": "Discount",
+        "discount": "0",
+        "taxRate": "0",
+        "notes": "",
+        "customFields": [
+          {
+            "id": "9dc9eb67-bd71-4906-ae4e-dc669d98241f",
+            "label": "tirtle",
+            "value": "sdfsdfsdf",
+            "visible": true
+          }
+        ]
+      }
+    }
+  }
+}
